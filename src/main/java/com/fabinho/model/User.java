@@ -26,7 +26,9 @@ public class User {
     @NotNull(message = "el nombre no puede ser nulo")
     private String name;
    
+    private String website;
 
+    private String phone;
     
 
     
