@@ -17,11 +17,11 @@ The Users API is developed in Java using the Spring Boot framework. The applicat
 
 ## API endpoints
 
-`GET /users`: Get all available users from the external service.
-`GET /users/{id}`: Gets a specific user by ID from the external service.
-`POST /users`: Creates a new user and adds it to the external service.
-`PUT /users/{id}`: Updates the information of an existing user in the external service.
-`DELETE /users/{id}`: Deletes an existing user from the external service.
+- `GET /users`: Get all available users from the external service.
+- `GET /users/{id}`: Gets a specific user by ID from the external service.
+- `POST /users`: Creates a new user and adds it to the external service.
+- `PUT /users/{id}`: Updates the information of an existing user in the external service.
+- `DELETE /users/{id}`: Deletes an existing user from the external service.
 
 ## Documentation with Swagger
 
