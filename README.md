@@ -1,4 +1,4 @@
-# User API Project
+# Users API Project
 
 ## Description
 
